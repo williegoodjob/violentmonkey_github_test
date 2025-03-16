@@ -7,7 +7,7 @@
 // @match        *://*/*
 // @grant        none
 // @require      https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js
-// @require      https://cdn.jsdelivr.net/gh/williegoodjob/violentmonkey_github_test@main/src/random.js
+// @require      https://raw.githubusercontent.com/williegoodjob/violentmonkey_github_test/refs/heads/main/src/random.js
 // ==/UserScript==
 
 // 主程序
