@@ -2,7 +2,7 @@
     'use strict';
 
     // 確保 ModuleTest 物件存在
-    window.ModuleTest = window.ModuleTest || {};
+    // window.ModuleTest = window.ModuleTest || {};
 
     // 定義 random 模組
     window.ModuleTest.random = function() {
