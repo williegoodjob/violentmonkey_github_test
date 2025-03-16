@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         模組化測試腳本
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  測試瀏覽器對模組化功能的處理
 // @author       Your name
 // @match        *://*/*
